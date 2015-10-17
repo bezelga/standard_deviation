@@ -1,0 +1,8 @@
+[package]
+name = "standard_deviation"
+version = "0.1.0"
+authors = ["Fabiano Beselga <fabianobeselga@gmail.com>"]
+
+[lib]
+name = "standard_deviation"
+crate-type = ["dylib"]
